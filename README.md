@@ -27,6 +27,7 @@ class Config {
 Or copy from the provided example file:
 
 cp lib/config.dart.example lib/config.dart
+
 You must obtain your own Giphy API key from https://developers.giphy.com/.
 
 ### 4. Run the application
