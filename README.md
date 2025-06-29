@@ -23,6 +23,7 @@ Create a file named lib/config.dart with the following content:
 class Config {
   static const String apiKey = 'YOUR_GIPHY_API_KEY';
 }
+
 Or copy from the provided example file:
 
 cp lib/config.dart.example lib/config.dart
