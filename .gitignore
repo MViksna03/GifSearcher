@@ -1,0 +1,49 @@
+# Sensitive configuration
+lib/config.dart
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build artifacts
+/build/
+**/build/
+**/ios/Flutter/.last_build_id
+app.*.symbols
+app.*.map.json
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+**/*.keystore
+**/*.jks
+**/*.apk
+**/*.ap_
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store
+.history
+.svn/
+.atom/
+.buildlog/
+migrate_working_dir/
+
+# Generated documentation
+**/doc/api/
