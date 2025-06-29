@@ -31,9 +31,11 @@ You must obtain your own Giphy API key from https://developers.giphy.com/.
 ### 4. Run the application
 
 flutter run
+
 The app has been tested using an Android emulator. You can use either an Android emulator (e.g., from Android Studio like I did) or a physical device connected via USB.
 ### Project Structure
 lib/
+
 ├── main.dart              # UI and search logic
 
 ├── gif_search_service.dart # Handles API requests to Giphy
